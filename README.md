@@ -1,2 +1,3 @@
 # Hello-World
-Just Another version control
+
+Testing the versioning concept of GitHub
